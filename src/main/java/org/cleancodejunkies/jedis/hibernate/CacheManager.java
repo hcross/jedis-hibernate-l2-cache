@@ -1,4 +1,4 @@
-package org.cleancodejunkies.java.jedis.hibernate;
+package org.cleancodejunkies.jedis.hibernate;
 
 /**
  * Manages connections to cache, like a pool.

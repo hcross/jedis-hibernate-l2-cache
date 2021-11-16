@@ -1,4 +1,4 @@
-package org.cleancodejunkies.java.jedis.hibernate;
+package org.cleancodejunkies.jedis.hibernate;
 
 import org.hibernate.boot.registry.selector.spi.StrategySelector;
 import org.hibernate.boot.spi.SessionFactoryOptions;
