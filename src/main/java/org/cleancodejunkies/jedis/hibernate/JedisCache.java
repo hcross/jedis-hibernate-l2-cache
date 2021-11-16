@@ -1,4 +1,4 @@
-package org.cleancodejunkies.java.jedis.hibernate;
+package org.cleancodejunkies.jedis.hibernate;
 
 import org.hibernate.cache.CacheException;
 import redis.clients.jedis.Jedis;

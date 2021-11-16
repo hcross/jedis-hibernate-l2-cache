@@ -1,4 +1,4 @@
-package org.cleancodejunkies.java.jedis.hibernate;
+package org.cleancodejunkies.jedis.hibernate;
 
 /**
  * A common/canonical cache interface that supports try w/resources via AutoClosable.
